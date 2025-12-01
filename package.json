@@ -1,0 +1,19 @@
+{
+  "name": "easy-etsy-for-woocommerce-vercel",
+  "version": "1.0.0",
+  "description": "OAuth Redirect Handler for Easy Etsy for WooCommerce Plugin",
+  "main": "api/etsy-callback.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "vercel": "^28.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
