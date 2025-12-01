@@ -1,14 +1,10 @@
-# Easy Etsy for WooCommerce - OAuth App
+Easy Etsy for WooCommerce seamlessly connects your WooCommerce store with Etsy. Manage products, prices, and stock automatically, saving you valuable time.
 
-This is the landing page and OAuth application for the Easy Etsy for WooCommerce WordPress plugin.
+Features:
+Automatic product synchronization between WooCommerce and Etsy
+Real-time inventory updates to prevent overselling
+Import and manage Etsy orders directly in WooCommerce
+Simple setup via secure OAuth flow
+Perfect for artists, creatives, and small shops
 
-## URLs for Etsy Developer Portal
-
-- **Website URL:** https://easy-etsy-app.vercel.app
-- **Application URL:** https://easy-etsy-app.vercel.app
-- **Privacy Policy:** https://easy-etsy-app.vercel.app/privacy.html
-- **Terms of Service:** https://easy-etsy-app.vercel.app/terms.html
-
-## Callback URLs
-
-The plugin supports dynamic callback URLs for each WordPress installation:
+You can find it in Wordpress: easy-etsy-for-woocommerce
